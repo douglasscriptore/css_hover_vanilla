@@ -4,4 +4,4 @@ This project use CSS for studying clip-path(), transform and transition css func
 ## See online: https://douglasscriptore.github.io/css_hover_vanilla/
 
 
-#### Inspired by: https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
+###### Inspired by: https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
